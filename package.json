@@ -53,6 +53,7 @@
 		"vitest-browser-svelte": "^2.0.2"
 	},
 	"dependencies": {
+		"better-auth": "^1.5.5",
 		"better-sqlite3": "^12.6.2"
 	}
 }
