@@ -1,0 +1,23 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# Dependencies
+node_modules
+
+# SvelteKit build output
+.svelte-kit
+build
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Vite
+vite.config.ts.timestamp-*
+
+# SQLite database — never commit the live data file
+data/
+
+# OS
+.DS_Store
+Thumbs.db
