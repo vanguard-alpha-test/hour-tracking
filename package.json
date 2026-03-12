@@ -1,0 +1,13 @@
+{
+  "name": "hour-tracking",
+  "version": "1.0.0",
+  "description": "Lightweight utility for tracking and reporting work hours",
+  "main": "src/tracker.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
